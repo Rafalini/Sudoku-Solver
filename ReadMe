@@ -1,0 +1,11 @@
+Sudoku solver
+
+Program solves (finds all possible combinations) sudoku using 'back tracking algorithm. Input files are Sudoku0.txt, Sudoku1.txt ... all containing different sudoku.
+
+- Sudoku0 - empty template, program will start to searching all possible combinations (it will take veeeery long ;P)
+-Sudoku1 - template with 1 possible solution
+-Sudoku2 - template with 193 possible solutions (with less than 17 given numbers in template there will be more than one possible solution)
+-Suodku3 - again template with 1 possible solution
+
+*in templates 0 mean empty cell
+**output is save in 'wyniki.txt'
