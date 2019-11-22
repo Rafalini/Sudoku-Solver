@@ -17,6 +17,7 @@ Usage: compile using $: make  and run with $: ./sudoku_solver
 *output is saved in 'wyniki.txt'
 
 Notes:
--Program isn't resistant to input data with errors (too few numbers, or letters on imput, unsolvable inputs are detected). Fix in the next update.
+-Program isn't resistant to input data with errors (too few numbers, or letters on imput, unsolvable inputs are detected).
+ Fix in the next update.
 -Input change without editing source code in the next update.
 -Change of sudoku size in the next update.
