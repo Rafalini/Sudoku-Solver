@@ -19,7 +19,7 @@ double czas;
 int main()
 {
     fstream Fsudoku;
-    Fsudoku.open("Sudocku1.txt", ios::in);
+    Fsudoku.open("Sudoku1.txt", ios::in);
 
     for(int i=0;i<rozmiarkw*ilosckw;i++)
         for(int j=0;j<rozmiarkw*ilosckw;j++)
